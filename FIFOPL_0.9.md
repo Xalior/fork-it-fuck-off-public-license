@@ -27,4 +27,4 @@ If you email the author(s) or maintainer(s) of this code, you may, at their
 sole discretion, be sent a complimentary copy of this license in response, with
 a reminder to
 
-_FORK OFF._
+_FORK IT or FUCK OFF._
