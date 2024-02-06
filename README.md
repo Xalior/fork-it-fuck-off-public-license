@@ -1,4 +1,4 @@
-# The "Fork Off" Public License
+# The "Fork Off or Fuck Off" Public License
 
 - Are you an author of cost-free open-source software?
 - Are you tired of assholes in your inbox asking for this, that, and the other?
@@ -10,10 +10,11 @@
   them?
 - ARE YOU JUST TIRED?!
 
-Presenting: the "Fork Off" Public License, wherein you can encourage folks to
-spend their own time and effort maintaining software for free, instead!
+Presenting: the "Fork Off or Fuck Off" Public License, wherein you can 
+encourage folks to spend their own time and effort maintaining software
+for free, instead because you're fed up of them asking you to do it.
 
-## Howdy from the author
+## Howdy from the original author, Josh Klar @klardotsh · he/him
 
 This is obviously a joke license, please enjoy it as such, and ideally, use it
 only as a dual-license alongside some real license of your choosing (I
