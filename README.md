@@ -12,7 +12,7 @@
 
 Presenting: the "Fork Off or Fuck Off" Public License, wherein you can 
 encourage folks to spend their own time and effort maintaining software
-for free, instead because you're fed up of them asking you to do it.
+for free, instead - because you're fucking fed up of them asking you to do it.
 
 ## Howdy from the original author, Josh Klar @klardotsh · he/him
 
