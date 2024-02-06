@@ -1,7 +1,7 @@
 # The "Fork Ir or Fuck Off" Public License v0.9
 
 > _fork off_ (verb) - to take this freely available code, create a new
-> repository under a new name to hold it, and maintain it your forking self
+> repository under a new name to hold it, and maintain it your fucking self
 
 If you've received source code with this license attached, you are free to
 build, run, and/or redistribute it. You are not, however, free to complain at
