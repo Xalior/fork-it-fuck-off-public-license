@@ -1,4 +1,4 @@
-# The "Fork Ir or Fuck Off" Public License v0.9
+# The "Fork It or Fuck Off" Public License v0.9
 
 > _fork off_ (verb) - to take this freely available code, create a new
 > repository under a new name to hold it, and maintain it your fucking self
