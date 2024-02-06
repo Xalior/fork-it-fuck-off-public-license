@@ -1,4 +1,4 @@
-# The "Fork Off or Fuck Off" Public License
+# The "Fork It or Fuck Off" Public License
 
 - Are you an author of cost-free open-source software?
 - Are you tired of assholes in your inbox asking for this, that, and the other?
